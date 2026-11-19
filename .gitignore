@@ -1,0 +1,30 @@
+# Сборка
+/build/
+/desktop/build/
+/desktop/.gradle/
+/desktop/.kotlin/
+/installer/src/out/
+
+# Локальные данные и portable-запуск
+/KinoTrend/
+/KinoTrend/data/
+
+# Сторонние бинарники и реверс APK
+/tools/torrserver/*.exe
+/apk/
+/re/
+
+# Скриншоты с локальными путями
+/settings*.png
+/settings*.jpg
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# IDE и ОС
+.idea/
+*.iml
+local.properties
+Thumbs.db
+.DS_Store
