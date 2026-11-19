@@ -3,6 +3,8 @@
 Неофициальная десктопная версия KinoTrend для Windows: каталог фильмов, карточки,
 раздачи, TorrServer и внешние плееры. Написана на Kotlin + Compose Desktop.
 
+![Главный экран KinoTrend](docs/screenshot.png)
+
 ## Скачать
 
 Готовый установщик: [KinoTrend-Setup-2.3.8.exe](https://github.com/flash72i/KinoTrend-Desktop/releases/latest).
